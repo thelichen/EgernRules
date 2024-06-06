@@ -21,18 +21,18 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-06-06 02:10:36
+最后更新时间：2024-06-07 02:11:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 489  | 
 | DOMAIN-KEYWORD | 37  | 
-| DOMAIN-SUFFIX | 24708  | 
+| DOMAIN-SUFFIX | 24709  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 46  | 
-| TOTAL(仅供参考) | 25396  | 
+| TOTAL(仅供参考) | 25397  | 
 
 
 ## Egern 
@@ -86,6 +86,7 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/Global/Global.yaml
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
+- https://ruleset.isagood.day/global.conf
 - https://ruleset.isagood.day/global_domain.conf
 
 

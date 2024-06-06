@@ -21,7 +21,7 @@
 
 ## 规则统计
 
-最后更新时间：2024-06-06 02:11:40
+最后更新时间：2024-06-07 02:12:31
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -32,9 +32,9 @@
 | DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8120  | 
-| IP-CIDR6 | 4319  | 
+| IP-CIDR6 | 4316  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 90489  | 
+| TOTAL(仅供参考) | 90486  | 
 
 
 ## Egern 
@@ -434,6 +434,7 @@ https://raw.githubusercontent.com/Repcz/EgernRules/X/Rules/ChinaMax/ChinaMax.yam
 - https://ruleset.isagood.day/icbc.conf
 - https://ruleset.isagood.day/sina.conf
 - https://ruleset.isagood.day/stream_cn.conf
+- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

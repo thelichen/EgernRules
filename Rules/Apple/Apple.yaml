@@ -1,7 +1,6 @@
 no_resolve: true
 domain_set:
 - apps.apple.com
-- itunes.apple.com
 - a1.mzstatic.com
 - a2.mzstatic.com
 - a3.mzstatic.com
@@ -240,6 +239,9 @@ domain_set:
 - devimages-cdn.apple.com
 - devstreaming-cdn.apple.com
 - docs-assets.developer.apple.com
+- hls-svod.itunes.apple.com
+- hls.itunes.apple.com
+- itunes.apple.com
 - js-cdn.music.apple.com
 - lookup-api.apple.com
 - mask-api.fe.apple-dns.net
@@ -252,18 +254,16 @@ domain_set:
 - news-client.apple.com
 - news-edge.apple.com
 - news-events.apple.com
-- sandbox.itunes.apple.com
-- hls-amt.itunes.apple.com
-- hls.itunes.apple.com
 - np-edge.itunes.apple.com
 - play-edge.itunes.apple.com
+- sandbox.itunes.apple.com
 - tv.applemusic.com
 - uts-api.itunes.apple.com
+- hls-amt.itunes.apple.com
 - fmfmobile.icloud.com
 - fmipmobile.icloud.com
 - statici.icloud.com
 - amp-api.fitness.apple.com
-- hls-svod.itunes.apple.com
 - guzzoni.apple.com
 - beta.apple.com
 - testflight.apple.com
@@ -1450,7 +1450,6 @@ domain_suffix_set:
 - applepaysupplies.tv
 - applewallet.com
 - applewallet.tv
-- appsto.re
 - appstore.co.id
 - appstore.com
 - appstore.hk
@@ -1764,6 +1763,8 @@ domain_suffix_set:
 - musickit.net
 - wwwapplemusic.com
 - apple-dns.net
+- appsto.re
+- cdn-apple.com
 - digicert.com
 - apple-cloudkit.com
 - apple-icloud.cn
@@ -1771,7 +1772,6 @@ domain_suffix_set:
 - appleicloud.cn
 - applemx-icloud.com
 - apzones.com
-- cdn-apple.com
 - icloud-apple.cn
 - icloud-content.com
 - icloud-isupport.com
